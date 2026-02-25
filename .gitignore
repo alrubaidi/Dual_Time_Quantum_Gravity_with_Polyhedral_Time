@@ -1,0 +1,166 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.brf
+*.nlo
+*.nls
+*.run.xml
+*.bcf
+
+# LaTeX build directory
+_minted-*/
+*.pdf
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Validation suite outputs (regenerated)
+validation_suite/outputs/figures/*.png
+validation_suite/outputs/*.json
+validation_suite/outputs/*.csv
+
+# Keep directory structure
+!validation_suite/outputs/.gitkeep
+!validation_suite/outputs/figures/.gitkeep
+
+# Submission packages and archives (private)
+submission_package/
+submission_package_E8/
+PRD_Submission_*.zip
+E8_validation_code.zip
+*.pdf.bak
+
+# Working drafts, docs, and alternative versions
+2/
+zenodo_e8/
+write_bib.py
+docs/
+
+# Manuscript sources (preprints under review — not distributed)
+*.tex
+*.bib
+figures/
+
+# Multiple E8 paper drafts (keep only tracked versions)
+E8_PRD.tex
+E8_PRDNotes.bib
+E8_PRD_complete.tex
+E8_PRD_completeNotes.bib
+E8_PRD_full.tex
+E8_PRD_fullNotes.bib
+E8_article.tex
+E8_paper.tex
+E8_paper_references.bib
+E8_references.bib
+E8_Supplementary_Material.tex
+E8_Supplementary_MaterialNotes.bib
+E8_Supplementary_Material_v2.tex
+E8_U(1)_Structure_and_Dynamics_in_Hilbert_Bundle_Quantum_GravityNotes.bib
+references.bib
