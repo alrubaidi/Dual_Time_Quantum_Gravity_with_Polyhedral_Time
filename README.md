@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the **computational validation suite** accompanying a manuscript submitted to *Physical Review D* (accession DP13988). The manuscript itself is **not** included and has not been publicly distributed.
+This repository contains the **computational validation suite** accompanying a manuscript submitted. The manuscript itself is **not** included and has not been publicly distributed.
 
 The code independently verifies the numerical results and mathematical consistency checks reported in the paper. Reviewers and readers can reproduce all computational claims by running the tests and scripts below.
 
