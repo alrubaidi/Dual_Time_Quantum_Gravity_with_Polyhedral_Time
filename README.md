@@ -1,7 +1,7 @@
 # Dual-Time Quantum Gravity — Validation Suite
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRD](https://img.shields.io/badge/PRD-DP13988-blue.svg)](https://journals.aps.org/prd/)
+
 [![Tests](https://img.shields.io/badge/tests-43%2F43%20passing-brightgreen.svg)](#running-the-tests)
 
 ## Overview
